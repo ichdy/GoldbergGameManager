@@ -1,0 +1,41 @@
+# C++ objects and libs
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+
+# IDE Configurations
+
+## Qt-es
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+
+## Qt Creator
+*.autosave
+
+## Qt Creator QML
+*.qmlproject.user
+*.qmlproject.user.*
+
+## Visual Studio Code
+.vscode
+
+## CLion
+.idea
+
+## KDevelop
+.kdev4
